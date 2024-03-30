@@ -1,7 +1,5 @@
 # Deep-Learning-for-TinyImageNet30-Image-Classification
 
-# Deep Learning for TinyImageNet30 Image Classification and Captioning
-
 ## Overview
 
 This project aims to explore and implement deep learning techniques for both image classificationusing a subset of the Tiny ImageNet dataset, referred to as TinyImageNet30;  and image captioning tasks using the COCO dataset. The TinyImageNet dataset consists of 30 different categories, each containing 450 resized images (64x64 pixels) for training, totaling 13,500 images. The project is divided into two parts:
